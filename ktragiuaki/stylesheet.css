@@ -1,0 +1,205 @@
+body {
+  margin: 0;
+  padding: 0;
+  min-height: 1300px;
+  background-image: url('images/bg-top.jpg');
+  background-repeat: no-repeat, no-repeat;
+  background-position: top center, bottom center;
+  background-color: #f2f2f2;
+  font-family: Cambria;
+  font-size: 13px;
+}
+.header {
+  width: 100%;
+  float: left;
+  height: 55px;
+}
+.leftheader {
+  width: 34%;
+  height: 100%;
+  float: left;
+  margin-left: 13%;
+}
+.rightheader {
+  width: 38%;
+  float: left;
+  height: 100%;
+  margin-left: 9%;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+.body {
+  float: left;
+  width: 100%;
+  height: 200px;
+  margin-top: 35%;
+}
+.underbody {
+  float: left;
+  width: 100%;
+  height: 70px;
+}
+.a {
+  float: left;
+  height: 100%;
+  width: 56%;
+  margin-left: 10%;
+  background-image: url('images/cuuamlenh-vip-giftcode.png');
+ background-position: right;
+ background-size: cover;
+ background-repeat: no-repeat;
+}
+.nextunder {
+  float: right;
+  margin-right: 20%;
+  margin-top: -5.5%;
+  width: 24%;
+  height: 220px;
+  background-image: url('images/links-right.png');
+ background-position: right;
+ background-size: contain;
+ background-repeat: no-repeat;
+}
+.holdbody {
+  width: 80%;
+  margin-left: 10%;
+  height: 100%;
+}
+.bodyleft {
+  width: 20%;
+  float: left;
+  height: 100%;
+}
+.bodycenter {
+  width: 50%;
+  height: 100%;
+  float: left;
+  background-image: url('images/slider-01.gif ');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bodyright {
+  width: 20%;
+  height: 100%;
+  float: left;
+}
+.button1 {
+  width: 100%;
+  height: 80%;
+  float: left;
+}
+.button2 {
+  width: 100%;
+  height: 20%;
+  float: left;
+}
+.taigame {
+  width: 100%;
+  height: 60%;
+  float: left;
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+.dangkynapthe {
+  float: left;
+  height: 40%;
+  width: 100%;
+  background-image: url('images/buttons-left.png');
+ background-position: right;
+ background-size: cover;
+ background-repeat: no-repeat;
+}
+.duoi {
+  float: left;
+  width: 55.5%;
+  height: 500px;
+  margin-left:10%;
+  margin-top: -11.8%;
+  border: 2px solid darkblue;
+}
+.duoiheader {
+  float: left;
+  width: 100%;
+  height: 15%;
+  background-image: url('images/news-header-bg.png');
+  background-position: right;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.img1 {
+  width: 25%;
+  height: 100%;
+  float: left;
+  background-image: url('images/news-dang-nhap.jpg');
+  background-position: right;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.img2 {
+  width: 25%;
+  height: 100%;
+  float: left;
+  background-image: url('images/news-su-kien.jpg');
+  background-position: right;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.img3 {
+  width: 25%;
+  height: 100%;
+  float: left;
+  background-image: url('images/news-event-thang3.png');
+  background-position: right;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.text {
+  width: 70%;
+  height: 100%;
+  float: left;
+}
+.duoi1 {
+  width: 100%;
+  float: left;
+  height: 23%;
+  margin-top: 1%;
+}
+.two {
+  width: 40%;
+  margin-left: 60%;
+  height: 10%;
+  float: left;
+}
+.bottom {
+  width: 100%;
+  float: left;
+  height: 300px;
+  background-position: right;
+  background-image: url('images/bg-bottom.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.logo {
+  float: left;
+  width: 20%;
+  height: 22%;
+  margin-left: 20%;
+  background-image: url('images/gosu-logo.png');
+  background-position: right;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-top: 10%;
+}
+.bottomtext {
+  width: 40%;
+  float: left;
+  height: 100%;
+}
+h4 {
+  color: red;
+  line-height: 0.1;
+}
